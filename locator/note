@@ -1,0 +1,11 @@
+There are 8 Locators used in selenium with python
+
+
+ID
+NAME
+XPATH
+LINK_TEXT
+PARTIAL_LINK_TEXT
+TAG_NAME
+CLASS_NAME
+CSS_SELECTOR

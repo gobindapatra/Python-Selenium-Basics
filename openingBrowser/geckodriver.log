@@ -1,0 +1,45 @@
+1683277196834	geckodriver	INFO	Listening on 127.0.0.1:53495
+1683277199865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Gobinda\\AppData\\Local\\Temp\\rust_mozprofilef0IpAy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683277200272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683277200281	Marionette	INFO	Listening on port 53507
+Read port: 53507
+WebDriver BiDi listening on ws://127.0.0.1:53496
+1683277200503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gobinda\\AppData\\Local\\Temp\\rust_mozprofilef0IpAy\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53496/devtools/browser/e98cd8c3-8186-4c32-9f3b-4d01b5d55f6f
+1683277206248	Marionette	INFO	Stopped listening on port 53507
+Dynamically enable window occlusion 1
+1683278447029	geckodriver	INFO	Listening on 127.0.0.1:50776
+1683278450045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Gobinda\\AppData\\Local\\Temp\\rust_mozprofileQ1GkRP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683278450298	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683278450303	Marionette	INFO	Listening on port 50786
+Read port: 50786
+WebDriver BiDi listening on ws://127.0.0.1:50777
+1683278450463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gobinda\\AppData\\Local\\Temp\\rust_mozprofileQ1GkRP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50777/devtools/browser/0698b68b-dafa-4b9e-9ae2-a26f8565add4
+1683278454753	Marionette	INFO	Stopped listening on port 50786
+Dynamically enable window occlusion 1
+1683278484757	geckodriver	INFO	Listening on 127.0.0.1:50877
+1683278487793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Gobinda\\AppData\\Local\\Temp\\rust_mozprofileEoaYwI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683278488049	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683278488053	Marionette	INFO	Listening on port 50891
+Read port: 50891
+WebDriver BiDi listening on ws://127.0.0.1:50878
+1683278488188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gobinda\\AppData\\Local\\Temp\\rust_mozprofileEoaYwI\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50878/devtools/browser/8775c511-9383-4ffa-96f5-23c6e7c5edd1
+1683278492122	Marionette	INFO	Stopped listening on port 50891
+Dynamically enable window occlusion 1
