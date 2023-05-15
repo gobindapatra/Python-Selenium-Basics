@@ -1,0 +1,14 @@
+Systax :
+
+ActionChains(webdriverObject).oprationName(ElementAddress).perform
+
+oprationName
+
+Click and hold
+Click and release
+Context Click
+Back Click
+Forward Click
+Double click
+Move to element
+Drag and Drop on Element
