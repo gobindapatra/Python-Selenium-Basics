@@ -1,11 +1,10 @@
 import time
 from selenium import webdriver
-from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
 
-mozila_Service = Service("drivers/geckodriver.exe")
-driver = webdriver.Firefox(service=mozila_Service)
+mozilla_Service = Service("drivers/geckodriver.exe")
+driver = webdriver.Firefox(service=mozilla_Service)
 driver.get("https://the-internet.herokuapp.com/windows")
 driver.maximize_window()
 driver.find_element(By.LINK_TEXT, "Click Here").click()
