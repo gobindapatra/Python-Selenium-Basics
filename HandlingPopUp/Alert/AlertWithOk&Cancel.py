@@ -1,5 +1,4 @@
-import time
-
+import time
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.alert import Alert
